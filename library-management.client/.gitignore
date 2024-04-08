@@ -27,7 +27,7 @@ yarn-error.log
 !.vscode/launch.json
 !.vscode/extensions.json
 .history/*
-.vs/
+.vs/Library-Management/FileContentIndex/94dea29c-4686+be0-9d67-f6820761760f.vsidx
 
 # Miscellaneous
 /.angular/cache
